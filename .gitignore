@@ -1,0 +1,14 @@
+# editors
+# Vim
+*.swp
+# Visual Studio
+.vs/
+*.sln
+*.xproj*
+# Visual Studio Code
+.vscode/
+
+# artifacts
+bin/
+obj/
+project.lock.json
