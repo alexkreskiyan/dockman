@@ -1,0 +1,18 @@
+﻿{
+  "name": "Dockman.Environment",
+  "version": "0.1.0.0",
+  "buildOptions": {
+    "debugType": "portable",
+    "warningsAsErrors": true
+  },
+  "frameworks": {
+    "netcoreapp1.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "type": "platform",
+          "version": "1.0.1"
+        }
+      }
+    }
+  }
+}
